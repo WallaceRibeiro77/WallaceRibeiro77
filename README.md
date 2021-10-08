@@ -4,7 +4,7 @@
 - 🌱 Estudando React js.
 - ⚡ Amo jogar no tempo livre !
  
-<div align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/WallaceRibeiro77">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WallaceRibeiro77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceRibeiro77&layout=compact&langs_count=7&theme=tokyonight"/>
