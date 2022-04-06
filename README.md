@@ -1,6 +1,6 @@
 ## Olá!! Eu sou Wallace 👋
 
-- 🔭 Estou em busca do meu primeiro emprego como Dev Front End 😉
+- 🔭 Estou em busca do meu primeiro emprego na área de desenvolvimento web 😉
 - 🌱 Estudando React js.
 - ⚡ Amo jogar no tempo livre !
  
