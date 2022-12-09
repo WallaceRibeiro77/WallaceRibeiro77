@@ -1,8 +1,11 @@
-## Olá!! Eu sou Wallace 👋
+## Fala Dev meu nome é Wallace 👋
 
-- 🔭 Estou em busca do meu primeiro emprego na área de desenvolvimento web 😉
-- 🌱 Estudando React js.
+- Atualmente estou estudando React e fazendo alguns bootcamps 😉
+- Sou fã de desenvolvimento web e segurança da informação (red team)
 - ⚡ Amo jogar no tempo livre !
+
+## Me chame pra desenvolver algo juntos!
+- Aqui meu linkedin => https://www.linkedin.com/in/wallace-ribeiro-5bb738211/
  
 <div align="center">
   <a href="https://github.com/WallaceRibeiro77">
