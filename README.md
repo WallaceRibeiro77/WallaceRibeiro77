@@ -1,6 +1,6 @@
 ## Fala Dev meu nome é Wallace 👋
 
-- Atualmente estou estudando React e fazendo alguns bootcamps 😉
+- Atualmente estou estudando React, DevOps e fazendo alguns bootcamps 😉
 - Sou fã de desenvolvimento web e segurança da informação (red team)
 - ⚡ Amo jogar no tempo livre !
 
