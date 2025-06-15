@@ -1,8 +1,8 @@
 ## Fala Dev meu nome é Wallace 👋
 
-- Atualmente estou me especializando na formação fullstack da Rocketseat 😉
-- Sou fã de desenvolvimento web e segurança da informação (red team)
-- ⚡ Amo jogar no tempo livre !
+📚 Atualmente me especializando na área de desenvolvimento web e entusiasta na área de cyber security(red team)!
+🔥 Estou sempre em busca de um novo desafio/problema para resolver, recentemente ingressei em uma comunidade para me tornar um indie hacker da berolab!
+🎮 No meu tempo livre eu curto jogar.
 
 ## Me chame pra desenvolver algo juntos!
 - Aqui meu linkedin => https://www.linkedin.com/in/wallace-ribeiro-5bb738211/
